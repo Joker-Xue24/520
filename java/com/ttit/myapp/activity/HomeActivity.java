@@ -79,3 +79,4 @@ public class HomeActivity extends BaseActivity {
         viewPager.setAdapter(new MyPagerAdapter(getSupportFragmentManager(), mTitles, mFragments));
     }
 }
+//520
