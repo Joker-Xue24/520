@@ -76,4 +76,4 @@ public abstract class BaseActivity extends AppCompatActivity {
         return SkinAppCompatDelegateImpl.get(this, this);
     }
 }
-//520
+//521
